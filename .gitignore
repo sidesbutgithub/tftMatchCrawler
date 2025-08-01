@@ -1,4 +1,2 @@
 *.exe
 .env
-/sql
-sqlc.yaml
